@@ -1,10 +1,51 @@
 # ML Pipeline Personal Bootcamp (14 Days)
-Note: I created the 14-day plan and the setup with the help of AI. 5 Apr 2026.
-Target:
-1) Use max 1–2 learning resources to be focused on
-2) 1 commit every day 
 
-Setup:
-- python3 -m venv .venv
-- source .venv/bin/activate
-- pip install -r requirements.txt
+This project follows a 14-day roadmap designed with AI support. 5 Apr 2026.
+
+##Goal:
+1) Max 1–2 learning resources to be focused on
+2) **1 commit every day**
+
+##Tech Stack:
+- Python, NumPy, Pandas, Scikit-learn
+
+##Structure:
+- data/
+- notebooks/
+- src/
+
+##Daily Workflow
+
+**Block A (60 min) — Learn**
+* 45 min: video/reading
+* 15 min: mini notes (5 bulletpoints, What did I learn?)
+**Block B (60 min) — Implement**
+* 55 min: code
+* 5 min: Git commit + update README
+
+##Progress Tracker
+**Week 1**
+- [x] Day 0 — Setup
+- [ ] Day 1 — Python basics
+- [ ] Day 2 — Log parser
+- [ ] Day 3 — CSV processing
+- [ ] Day 4 — NumPy I
+- [ ] Day 5 — Numpy II
+- [ ] Day 6 — Pandas I
+- [ ] Day 7 — Pandas II + Matplotlib
+
+**Week 2**
+- [ ] Day 8 — Intro to ML (train/test + metrics)
+- [ ] Day 9 — Linear Regression + MSE
+- [ ] Day 10 — Overfitting & regularization
+- [ ] Day 11 — Feature engineering I
+- [ ] Day 12 — Models
+- [ ] Day 13 — Cross-validation
+- [ ] Day 14 — Mini Project + Report + Overview
+
+## Day 0
+- Python virtual environment created
+- Packages installed
+- .gitignore, README.md, project structure initialized
+- First commit pushed
+- Repo connected to the GitHub
