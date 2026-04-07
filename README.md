@@ -19,6 +19,7 @@ This project follows a 14-day roadmap designed with AI support. 5 Apr 2026.
 **Block A (60 min) — Learn**
 * 45 min: video/reading
 * 15 min: mini notes (5 bulletpoints, What did I learn?)
+
 **Block B (60 min) — Implement**
 * 55 min: code
 * 5 min: Git commit + update README
@@ -26,8 +27,8 @@ This project follows a 14-day roadmap designed with AI support. 5 Apr 2026.
 ##Progress Tracker
 **Week 1**
 - [x] Day 0 — Setup
-- [ ] Day 1 — Python basics
-- [ ] Day 2 — Log parser
+- [x] Day 1 — Python basics
+- [x] Day 2 — Log parser
 - [ ] Day 3 — CSV processing
 - [ ] Day 4 — NumPy I
 - [ ] Day 5 — Numpy II
@@ -42,10 +43,3 @@ This project follows a 14-day roadmap designed with AI support. 5 Apr 2026.
 - [ ] Day 12 — Models
 - [ ] Day 13 — Cross-validation
 - [ ] Day 14 — Mini Project + Report + Overview
-
-## Day 0
-- Python virtual environment created
-- Packages installed
-- .gitignore, README.md, project structure initialized
-- First commit pushed
-- Repo connected to the GitHub
