@@ -1,4 +1,4 @@
-## Day 0
+## Task 0
 
 - Python virtual environment created
 - Packages installed
@@ -6,7 +6,7 @@
 - First commit pushed
 - Repo connected to the GitHub
 
-## Day 1/2
+## Task 1/2
 
 - Explored core python data structures: dict, list, set
 - Solved basic algorithmic problems
